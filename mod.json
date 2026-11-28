@@ -1,15 +1,14 @@
 {
-  "geode": "v6.0.0",
+  "geode": "6.0.0",
   "gd": {
     "win": "2.2091",
     "mac": "2.2091",
     "android": "2.2091"
   },
-  "id": "Kakaja88.dobot",
+  "id": "kakaja88.dobot",
   "name": "DoBot",
   "version": "v1.0.0",
   "developer": "Kakaja88",
   "description": "Noclip toggle, replay bot, and DoBot renderer for Geometry Dash.",
-  "repository": "https://github.com/rafaryshowcex-tech/DoBot",
-  "dependencies": {}
+  "repository": "https://github.com/rafaryshowcex-tech/DoBot"
 }
